@@ -1,0 +1,18 @@
+
+
+.heading {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.jumbo {
+	padding: 10px;
+}
+
+.jumbotron {
+	background-image: url("https://s-media-cache-ak0.pinimg.com/736x/c9/cb/ef/c9cbef8ff4eee8e45f22e527facf4c5a.jpg");
+}
+
+h1, h4 {
+	text-shadow: 2px 2px #ff0000;
+}
